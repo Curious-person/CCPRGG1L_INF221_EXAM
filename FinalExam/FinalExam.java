@@ -21,10 +21,10 @@ public class FinalExam {
         System.out.println(" ");
         System.out.println("1. ALAK ");
 
-        //outer loop
+        //OUTER LOOP
         for (char i = 0; i < 10; i++) {
             
-            //inner loop
+            //INNER LOOP
             System.out.println("");
             for (int j = 0; j < 10; j++) {
 
